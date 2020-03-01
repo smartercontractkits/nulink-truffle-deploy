@@ -1,0 +1,5 @@
+build/
+chainlink/root/
+node_modules/
+secret/
+npm-debug.log
